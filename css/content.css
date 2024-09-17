@@ -1,0 +1,13 @@
+.heading{
+    color: cadetblue;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(88, 53, 244);
+}
+
+nav{
+background: #eee;
+border:1px solid darkblue ;
+}
